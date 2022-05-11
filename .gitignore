@@ -1,0 +1,4 @@
+/.gyro
+/zig-cache
+/zig-out
+*.png
